@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8d375bfd59626fb4f9991f5a8f0b0e23
+timeCreated: 1449717666
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - leGrimReaper: {fileID: 117626, guid: 7a8b44e538e5c424ea84f73f10a6a098, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
